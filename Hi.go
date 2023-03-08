@@ -1,3 +1,3 @@
 package main
 import "fmt"
-func main(){fmt.println("Welcome to my repo...")}
+func main(){fmt.Println("Welcome to my repo...")}
