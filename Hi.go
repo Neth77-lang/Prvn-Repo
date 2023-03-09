@@ -1,4 +1,3 @@
 package main
 import "fmt"
-func main(){fmt.Println("Welcome to my repo...")
-fmt.Println("Prvn-Repo...")}}
+func main(){fmt.Println("Welcome to my repo...")}
